@@ -1,6 +1,4 @@
 function Cat() {
 	// body...
-
-
-	module.exports = Cat;
 }
+module.exports = Cat;

@@ -1,0 +1,1 @@
+This is the main idea of project. This project just a demo of commit git command 

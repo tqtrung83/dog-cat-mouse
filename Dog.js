@@ -1,3 +1,9 @@
-function Dog(argument) {
+function Dog() {
 	// body...
+	this.stomach = [];
+	Dog.prototype.eat = function(cat){
+		this.stomach.push(cat);
+	}
+
 }
+module.exports = Dog;
